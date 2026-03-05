@@ -27,8 +27,8 @@
 
 **`Tab 1` — Extraction**
 
-Extraction Tab <img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/c6e8fed1-e816-4554-a023-371f7cb2834f" />
-" />
+Extraction Tab <img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/a98ac95f-f248-4925-9736-1850a27a62cc" />
+
 
 *Paste demo call transcript → Execute extraction → Get structured v1 memo*
 
@@ -37,8 +37,7 @@ Extraction Tab <img width="1919" height="917" alt="image" src="https://github.co
 
 **`Tab 2` — Versioning**
 
-![Versioning Tab](<img width="1919" height="859" alt="image" src="https://github.com/user-attachments/assets/2f3af7c0-db6f-47c1-81b3-e70e16746f94" />
-)
+Versioning Tab <img width="1919" height="845" alt="image" src="https://github.com/user-attachments/assets/30602ed5-f223-46e3-9d06-605db57a8528" />
 
 *Paste v1 memo + onboarding transcript → Merge & version → Get v2 reconciled memo*
 
@@ -47,8 +46,7 @@ Extraction Tab <img width="1919" height="917" alt="image" src="https://github.co
 
 **`Tab 3` — Agent Engineering**
 
-![Agent Engineering Tab](<img width="1907" height="864" alt="image" src="https://github.com/user-attachments/assets/c146b80a-a521-414c-9023-0fa38b000f7e" />
-)
+![Agent Engineering Tab](<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/ccf0e826-33f0-42e0-92c3-3795fbad125f" />)
 
 *Paste v1 or v2 memo → Generate agent spec → Get Retell AI-ready prompt*
 
