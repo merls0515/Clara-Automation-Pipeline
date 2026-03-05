@@ -27,7 +27,8 @@
 
 **`Tab 1` — Extraction**
 
-[Extraction Tab](<img width="1447" height="787" alt="image" src="https://github.com/user-attachments/assets/a237cc35-3ed0-43d2-a47d-4ea51781f704" />
+[Extraction Tab](<img width="1447" height="787" alt="image" src="<img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/c6e8fed1-e816-4554-a023-371f7cb2834f" />
+" />
 
 *Paste demo call transcript → Execute extraction → Get structured v1 memo*
 
