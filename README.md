@@ -46,7 +46,7 @@ Versioning Tab <img width="1919" height="845" alt="image" src="https://github.co
 
 **`Tab 3` — Agent Engineering**
 
-![Agent Engineering Tab](<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/ccf0e826-33f0-42e0-92c3-3795fbad125f" />)
+Agent Engineering Tab <img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/ccf0e826-33f0-42e0-92c3-3795fbad125f" />
 
 *Paste v1 or v2 memo → Generate agent spec → Get Retell AI-ready prompt*
 
