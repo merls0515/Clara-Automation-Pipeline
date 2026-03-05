@@ -27,7 +27,7 @@
 
 **`Tab 1` — Extraction**
 
-![Extraction Tab](https://raw.githubusercontent.com/yourusername/clara-ai-onboarding-suite/main/screenshots/extraction.png)
+![Extraction Tab](<img width="1447" height="787" alt="image" src="https://github.com/user-attachments/assets/a237cc35-3ed0-43d2-a47d-4ea51781f704" />
 
 *Paste demo call transcript → Execute extraction → Get structured v1 memo*
 
@@ -36,7 +36,8 @@
 
 **`Tab 2` — Versioning**
 
-![Versioning Tab](https://raw.githubusercontent.com/yourusername/clara-ai-onboarding-suite/main/screenshots/versioning.png)
+![Versioning Tab](<img width="1919" height="859" alt="image" src="https://github.com/user-attachments/assets/2f3af7c0-db6f-47c1-81b3-e70e16746f94" />
+)
 
 *Paste v1 memo + onboarding transcript → Merge & version → Get v2 reconciled memo*
 
@@ -45,7 +46,8 @@
 
 **`Tab 3` — Agent Engineering**
 
-![Agent Engineering Tab](https://raw.githubusercontent.com/yourusername/clara-ai-onboarding-suite/main/screenshots/agent-engineering.png)
+![Agent Engineering Tab](<img width="1907" height="864" alt="image" src="https://github.com/user-attachments/assets/c146b80a-a521-414c-9023-0fa38b000f7e" />
+)
 
 *Paste v1 or v2 memo → Generate agent spec → Get Retell AI-ready prompt*
 
