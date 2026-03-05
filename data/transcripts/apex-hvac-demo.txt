@@ -1,0 +1,9 @@
+[Caller]: Apex HVAC. We need an AI receptionist.
+[Clara]: Business hours?
+[Caller]: 9 AM to 6 PM, Mon-Sat.
+[Clara]: Services?
+[Caller]: AC repair, furnace maintenance, and duct cleaning.
+[Clara]: Emergency?
+[Caller]: No heat in winter or no AC in summer. Transfer to 555-4455.
+[Clara]: Non-emergency?
+[Caller]: Take a message.

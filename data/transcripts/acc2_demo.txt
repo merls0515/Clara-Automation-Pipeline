@@ -1,0 +1,15 @@
+Agent: Hello, this is Clara. How can I help you today?
+User: Hi, I'm Sarah from Sarah's Plumbing. I'm looking for an automated answering service.
+Agent: Great! What are your business hours?
+User: We're open Monday to Friday, 9 AM to 6 PM Pacific Time.
+Agent: And what's your office address?
+User: 456 Pipe Lane, Water City.
+Agent: What services do you support?
+User: We do residential plumbing, commercial drain cleaning, and emergency leak repairs.
+Agent: How do you define an emergency?
+User: Anything involving a major leak, burst pipe, or no water is an emergency.
+Agent: Where should I route emergency calls?
+User: Route them to my mobile at 555-0299.
+Agent: And non-emergencies?
+User: Just take a message and email it to office@sarahsplumbing.com.
+Agent: Got it. Thank you!

@@ -1,0 +1,15 @@
+Agent: Hello, this is Clara. How can I help you today?
+User: Hi, I'm John from John's HVAC. I'm looking for an automated answering service.
+Agent: Great! What are your business hours?
+User: We're open Monday to Friday, 7 AM to 4 PM Central Time.
+Agent: And what's your office address?
+User: 789 Vent Lane, Air City.
+Agent: What services do you support?
+User: We do residential AC repair, commercial heating, and emergency furnace repair.
+Agent: How do you define an emergency?
+User: Anything involving a furnace failure in winter or AC failure in extreme heat is an emergency.
+Agent: Where should I route emergency calls?
+User: Route them to my mobile at 555-0399.
+Agent: And non-emergencies?
+User: Just take a message and email it to office@johnshvac.com.
+Agent: Got it. Thank you!

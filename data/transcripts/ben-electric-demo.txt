@@ -1,0 +1,9 @@
+[Caller]: Hi, I'm calling from Ben's Electric. We need an AI receptionist.
+[Clara]: Great! What are your business hours?
+[Caller]: We are open 8 AM to 5 PM, Monday to Friday. Our office is at 123 Spark Lane, Volt City.
+[Clara]: What services do you support?
+[Caller]: We do residential wiring and panel upgrades.
+[Clara]: How should we handle emergencies?
+[Caller]: An emergency is a total power loss or sparking wires. Route those to our on-call tech at 555-0199.
+[Clara]: And non-emergencies?
+[Caller]: Just take a message and we'll call back during business hours.

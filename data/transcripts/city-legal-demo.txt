@@ -1,0 +1,9 @@
+[Caller]: City Legal. We need an AI receptionist.
+[Clara]: Business hours?
+[Caller]: 9 AM to 5 PM, Mon-Fri.
+[Clara]: Services?
+[Caller]: Family law, personal injury, and criminal defense.
+[Clara]: Emergency?
+[Caller]: Arrests or immediate court orders. Transfer to 555-8899.
+[Clara]: Non-emergency?
+[Caller]: Schedule a callback.

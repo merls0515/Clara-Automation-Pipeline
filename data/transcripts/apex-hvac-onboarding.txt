@@ -1,0 +1,4 @@
+[Caller]: Apex HVAC here. We want to update our emergency definition.
+[Clara]: What's changing?
+[Caller]: Also include gas leaks. And transfer to our new emergency line at 555-6677.
+[Clara]: Got it.

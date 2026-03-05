@@ -1,0 +1,4 @@
+[Caller]: Green Landscapes here. We want to update our hours.
+[Clara]: What's changing?
+[Caller]: We are now open on Sundays too, 9 AM to 2 PM.
+[Clara]: Got it.

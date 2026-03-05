@@ -1,0 +1,9 @@
+[Caller]: Swift Plumbing here. We need a receptionist.
+[Clara]: What are your hours?
+[Caller]: 24/7. We are always open.
+[Clara]: Services?
+[Caller]: Leaks, clogged drains, and water heater installs.
+[Clara]: Emergency?
+[Caller]: Flooding or burst pipes. Transfer to 555-1122.
+[Clara]: Non-emergency?
+[Caller]: Schedule a callback.

@@ -1,0 +1,5 @@
+{
+  "name": "Clara Automation Pipeline",
+  "description": "Zero-cost automation pipeline for generating and updating Retell AI agent configurations from demo and onboarding transcripts. Built by Merlyn Victor.",
+  "requestFramePermissions": []
+}

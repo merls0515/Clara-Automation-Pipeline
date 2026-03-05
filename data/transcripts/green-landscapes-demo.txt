@@ -1,0 +1,9 @@
+[Caller]: Green Landscapes. We need an AI receptionist.
+[Clara]: Business hours?
+[Caller]: 7 AM to 4 PM, Mon-Sat.
+[Clara]: Services?
+[Caller]: Lawn mowing, tree pruning, and garden design.
+[Clara]: Emergency?
+[Caller]: Fallen trees or broken irrigation. Transfer to 555-0011.
+[Clara]: Non-emergency?
+[Caller]: Take a message.

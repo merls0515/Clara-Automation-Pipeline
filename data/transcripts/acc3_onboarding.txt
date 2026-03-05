@@ -1,0 +1,11 @@
+Agent: Hi John, this is Clara. We're setting up your v2 agent.
+User: Hi Clara. I have some updates for the routing rules.
+Agent: Sure, what's changed?
+User: For emergencies, if I don't answer my mobile in 3 rings, please call my partner Mike at 555-0400.
+Agent: Got it. Emergency fallback to Mike. Anything else?
+User: Yes, we're now open on Saturdays from 8 AM to 12 PM for scheduled maintenance.
+Agent: Okay, updated business hours. What about the address?
+User: The address is correct, but please mention we're in Suite 400.
+Agent: Suite 400 added. Any new services?
+User: We've added air purification systems.
+Agent: Air purification systems added. Thank you!
